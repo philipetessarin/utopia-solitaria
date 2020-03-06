@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://philipetessarin.github.io/utopia-solitaria/</loc>
-    <lastmod>2020-01-29</lastmod>
+    <lastmod>2020-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-  </url>
-    <url>
+  </url>  <url>
+    <loc>https://philipetessarin.github.io/utopia-solitaria//blog/2020/03/06/ficar-e-partir/</loc>
+    <lastmod>2020-03-06T00:00:00-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>  <url>
     <loc>https://philipetessarin.github.io/utopia-solitaria//blog/2020/01/29/introducao/</loc>
     <lastmod>2020-01-29T00:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-    <url>
+  </url>  <url>
     <loc>https://philipetessarin.github.io/utopia-solitaria//blog/2020/01/29/comeco-aventura/</loc>
     <lastmod>2020-01-29T00:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  </urlset>
+  </url></urlset>
